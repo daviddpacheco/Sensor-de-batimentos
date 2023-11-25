@@ -1,5 +1,5 @@
 # Sensor-de-batimentos
-Entendimento do problema 
+Entendimento do problema: 
     A busca por uma vida saudável, conforme proposto pela Hapvida NotreDame, 
 está em sintonia com os Objetivos de Desenvolvimento Sustentável (ODS) da ONU, especialmente a Meta 3: "Assegurar uma vida saudável e promover o bem-estar para todos,
 em todas as idades". A introdução de um Sistema de Monitoramento e Recomendação de Saúde não apenas aborda demandas internas, 
@@ -10,7 +10,7 @@ mas também posiciona a organização como um agente de mudança sustentável no
 independentemente da idade. 
 
 
- Ideia de solução 
+ Ideia de solução: 
     No âmbito do projeto colaborativo com a Hapvida NotreDame, 
 a Vital Data propõe uma abordagem inovadora por meio da Análise Contínua de Dados, 
 redefinindo os cuidados de saúde. Nossa visão delineia um futuro em que a tecnologia se torna um aliado ativo na busca por uma saúde preventiva e personalizada. 
@@ -22,7 +22,7 @@ promovendo um estilo de vida saudável. Mais do que simples dados, enxergamos a 
 capacitando os beneficiários da Hapvida NotreDame a liderar suas jornadas de bem-estar. Este projeto transcende a resposta técnica; é uma narrativa de empowerment, 
 prevenção e inovação, moldando um novo capítulo na prestação de cuidados de saúde. 
 
-Como executar
+Como executar:
   Será necessário, 1 ESP32, 1 Tela LCD e 1 sensor de pulso. Utilizando o código-fonte fornecido é possível gerar uma simulação de como funcionaria o sensor.  
 Já utilizando a simulação do wokwi, será possível acompanhar as variações dentro da plataforma TAGOIO. Mudando o "tokenHeader" é possível usar o projeto para monitorar qualquer MQTT.
 
