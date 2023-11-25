@@ -27,3 +27,7 @@ Como executar:
 Já utilizando a simulação do wokwi, será possível acompanhar as variações dentro da plataforma TAGOIO. Mudando o "tokenHeader" é possível usar o projeto para monitorar qualquer MQTT.
 
 link: https://wokwi.com/projects/382325711074159617
+
+RM550301 - Pedro Henrique Alves Guariente 
+
+RM551462 - David de Medeiros Pacheco Junior 
